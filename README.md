@@ -1,4 +1,4 @@
 # Lab2
 ## Name: Yixin Jiang
 ## PID: A16534308
-## Github page: 
+## Github page: https://github.com/yij011/Lab2.git
